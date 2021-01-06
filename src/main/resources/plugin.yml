@@ -1,0 +1,3 @@
+name: CobbleCustomItems
+main: dev.cobblesword.customitems.CustomItemsPlugin
+version: 1.0
