@@ -9,3 +9,7 @@ a packet level we inject display name, lore and
 other information.
 
 Note: while in creative, you can view the items by their ids
+
+## Plan
+Hook this up with CobbleLite so we can seamlessly 
+add and edit items 
